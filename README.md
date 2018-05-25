@@ -8,4 +8,7 @@
 7. Permutation of String
 8. Paint Fill
 9. Permutation of Parentheses
-
+10.Board Game - placing queens
+11.Boolean Evaluation
+12.Count Coins - Ways to count coins given the denomination
+13.Stack of Boxes
