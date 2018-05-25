@@ -5,3 +5,7 @@
 4. Recursive Multiply
 5. Robocode
 6. Towers of Hanoi
+7. Permutation of String
+8. Paint Fill
+9. Permutation of Parentheses
+
